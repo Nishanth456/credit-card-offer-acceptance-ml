@@ -1,0 +1,10 @@
+Income Level,Credit Rating,# Credit Cards Held,Own Your Home,Offer Accepted
+High,High,2,No,No
+Medium,Medium,2,Yes,No
+High,Medium,2,Yes,No
+High,High,2,Yes,Yes
+Low,Low,3,Yes,Yes
+Medium,Medium,1,No,No
+Low,Medium,1,Yes,No
+Low,High,2,Yes,No
+High,Low,1,No,Yes
